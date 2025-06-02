@@ -9,15 +9,14 @@ Este repositorio contiene una pequeña aplicación en **Laravel 12** que utiliza
 
 ---
 
-## 1. Requisitos mínimos
+## 1. Requisitos
 
 - **PHP 8.1+**  
 - **Composer**  
 - **Laravel 12**  
-- **Oracle 21c XE** (o superior) instalado localmente  
-- Extensión PHP OCI8 (`pdo_oci`) configurada (para conectar PHP ↔ Oracle)  
-- **Node.js 16+** y **npm** (para compilar assets de front-end)  
-- Git (para clonar/repositorio)
+- **Oracle 21c XE** instalado localmente  
+- Extensión PHP OCI8 (`pdo_oci`) habilitada  
+- **Git** (para clonar el repositorio)
 
 ---
 
@@ -30,7 +29,3 @@ cd tu-repo
 
 # Instalar dependencias de PHP
 composer install
-
-# Instalar dependencias de JS/CSS
-npm install
-npm run build   # o npm run dev (en entornos de desarrollo)
