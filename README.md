@@ -9,7 +9,7 @@ Este repositorio contiene una pequeña aplicación en **Laravel 12** que utiliza
 
 ---
 
-**Requisitos
+##Requisitos
 
 Antes de instalar y ejecutar el proyecto, asegúrate de tener:
 
