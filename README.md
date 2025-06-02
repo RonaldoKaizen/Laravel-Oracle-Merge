@@ -9,7 +9,7 @@ Este repositorio contiene una pequeña aplicación en **Laravel 12** que utiliza
 
 ---
 
-##Requisitos
+## Requisitos
 
 Antes de instalar y ejecutar el proyecto, asegúrate de tener:
 
@@ -35,7 +35,7 @@ Nota: No se utiliza Node.js ni npm para este proyecto.
 
 ---
 
-##Configuración del entorno
+## Configuración del entorno
 
 Clonar el repositorio
 
