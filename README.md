@@ -13,7 +13,7 @@ Este repositorio contiene una pequeña aplicación en **Laravel 12** que utiliza
 
 Antes de instalar y ejecutar el proyecto, asegúrate de tener:
 
-PHP >= 8.1
+PHP 8.1 o mayor.
 
 Composer (administrador de dependencias PHP)
 
@@ -21,9 +21,10 @@ Laravel 12 (se instalará vía Composer)
 
 Oracle 21c XE
 
-Esquema/Usuario: user01
-
-Contraseña: tu_password
+    Para este ejemplo se usó:
+    - Esquema/Usuario: user01
+    - Contraseña: tecsup
+    Se puede verificar dentro del archivo .env y config/database.php
 
 Oracle Instant Client y extensión PHP OCI8 configurada (php_oci8)
 
