@@ -28,9 +28,7 @@ Oracle 21c XE
 
 Oracle Instant Client y extensión PHP OCI8 configurada (php_oci8)
 
-Extensión OCI8 habilitada en PHP (para conectarse a Oracle)
-
-Git (para clonar el repositorio)
+Extensión OCI8 habilitada en PHP (para conectarse a Oracle) añadido al PATH
 
 Nota: No se utiliza Node.js ni npm para este proyecto.
 
