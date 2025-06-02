@@ -38,8 +38,8 @@ Nota: No se utiliza Node.js ni npm para este proyecto.
 
 Clonar el repositorio
 
-git clone https://tu-repositorio-url.git
-cd nombre-del-proyecto
+git clone [https://github.com/RonaldoKaizen/Laravel-Oracle-Merge.git]
+cd Laravel-Oracle-Merge
 
 Instalar dependencias PHP con Composer
 
